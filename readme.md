@@ -1,0 +1,1 @@
+Simple console app that returns celebrity info scraped from Wikipedia.
